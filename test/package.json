@@ -1,0 +1,19 @@
+{
+  "name": "my_calculator",
+  "version": "1.0.0",
+  "description": "Calculator function",
+  "main": "test.js",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "abhi",
+  "license": "ISC",
+  "keywords": [
+    "function"
+  ]
+}
